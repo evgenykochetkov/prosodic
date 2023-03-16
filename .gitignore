@@ -38,6 +38,7 @@ nosetests.xml
 .project
 .pydevproject
 
+prosodic/dicts/en/english.tts-cache.tsv
 metricaltree/Stanford Library
 metricaltree/Text Book
 metricaltree/Pickle Jar

@@ -13,3 +13,5 @@ graft dicts
 
 global-exclude .DS_Store
 global-exclude *.py[cod]
+
+exclude prosodic/dicts/en/english.tts-cache.tsv
